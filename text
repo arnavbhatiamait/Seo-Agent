@@ -1,0 +1,2 @@
+run_seo_analysis_with_langchain
+def analyze_video_with_openai(video_url, video_metadata, language="English",api_key="",llm_name="Ollama",model=None):
