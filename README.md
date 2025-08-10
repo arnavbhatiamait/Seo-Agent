@@ -7,8 +7,16 @@ An AI-powered YouTube SEO assistant that helps optimize videos by generating hig
 - YouTube-focused: Optimizes title, description, tags, outline, and thumbnail brief.
 - Streamlit app: One-command launch and browser UI.
 - Analysis helpers: Utilities for content scoring and suggestions (utils/analysis_functions.py).
+![pic1](https://github.com/arnavbhatiamait/Seo-Agent/blob/main/Screenshot%202025-08-10%20221528.png)
+![pic2](https://github.com/arnavbhatiamait/Seo-Agent/blob/main/Screenshot%202025-08-10%20221814.png)
+![pic3](https://github.com/arnavbhatiamait/Seo-Agent/blob/main/Screenshot%202025-08-10%20221908.png)
+![pic4](https://github.com/arnavbhatiamait/Seo-Agent/blob/main/Screenshot%202025-08-10%20221915.png)
+![pic5](https://github.com/arnavbhatiamait/Seo-Agent/blob/main/Screenshot%202025-08-10%20221925.png)
+![pic6](https://github.com/arnavbhatiamait/Seo-Agent/blob/main/Screenshot%202025-08-10%20221935.png)
+![pic7](https://github.com/arnavbhatiamait/Seo-Agent/blob/main/Screenshot%202025-08-10%20221950.png)
+![pic8](https://github.com/arnavbhatiamait/Seo-Agent/blob/main/Screenshot%202025-08-10%20221957.png)
 
-![App Screenshot 1](Screenshot%202025-08-10% 2](Screenshot%202025-08-10% 3](Screenshot%202025-08-10% 4](Screenshot%202025-08-10% 5](Screenshot%202025-08-10% 6](Screenshot%202025-08-10% 7](Screenshot%202025-08-10% 8](Screenshot%202025-08-10%)
+
 
 ## Features
 
