@@ -27,7 +27,7 @@ An AI-powered YouTube SEO assistant that helps optimize videos by generating hig
 - Model flexibility:
   - OpenAI (e.g., GPT-4 class models)
   - Google Gemini
-  - xAI Grok
+  - Groq
   - Ollama for local models (privacy-friendly, no external calls)
 - Streamlit UI: Simple, fast, deploy anywhere (local, Streamlit Cloud, VM).
 
@@ -36,7 +36,7 @@ An AI-powered YouTube SEO assistant that helps optimize videos by generating hig
 - Launch the app and experiment with YouTube keywords, topics, or drafts to generate SEO assets.
 - Demo screenshots are included in the repository for a quick preview of the UI and outputs.
 
-[image:car.png]
+
 
 ## Project Structure
 
@@ -55,7 +55,7 @@ An AI-powered YouTube SEO assistant that helps optimize videos by generating hig
 - At least one LLM provider configured:
   - OpenAI (OPENAI_API_KEY)
   - Google Gemini (GEMINI_API_KEY)
-  - xAI Grok (XAI_API_KEY)
+  - Groq
   - Ollama running locally (ollama serve)
 
 Note on Streamlit SEO: Streamlit apps are client-rendered; metadata customization may require workarounds if aiming to index the app itself, not its outputs.
@@ -75,7 +75,7 @@ Note on Streamlit SEO: Streamlit apps are client-rendered; metadata customizatio
 4) Set environment variables (choose providers you’ll use):
 - export OPENAI_API_KEY=...
 - export GEMINI_API_KEY=...
-- export XAI_API_KEY=...  (Grok)
+- export Groq_API_KEY=...  (Groq)
 - Ensure Ollama is running for local models: ollama serve
 
 5) Run the app:
