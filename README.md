@@ -8,14 +8,7 @@ An AI-powered YouTube SEO assistant that helps optimize videos by generating hig
 - Streamlit app: One-command launch and browser UI.
 - Analysis helpers: Utilities for content scoring and suggestions (utils/analysis_functions.py).
 
-[image:Screenshot 2025-08-10 221528.png]
-[image:Screenshot 2025-08-10 221814.png]
-[image:Screenshot 2025-08-10 221908.png]
-[image:Screenshot 2025-08-10 221915.png]
-[image:Screenshot 2025-08-10 221925.png]
-[image:Screenshot 2025-08-10 221935.png]
-[image:Screenshot 2025-08-10 221950.png]
-[image:Screenshot 2025-08-10 221957.png]
+![App Screenshot 1](Screenshot%202025-08-10% 2](Screenshot%202025-08-10% 3](Screenshot%202025-08-10% 4](Screenshot%202025-08-10% 5](Screenshot%202025-08-10% 6](Screenshot%202025-08-10% 7](Screenshot%202025-08-10% 8](Screenshot%202025-08-10%)
 
 ## Features
 
@@ -122,3 +115,7 @@ Note on Streamlit SEO: Streamlit apps are client-rendered; metadata customizatio
 
 - Built with Streamlit for the app layer.
 - Inspired by agentic content-generation workflows commonly used for SEO and YouTube optimization.
+
+
+
+.
